@@ -16,7 +16,7 @@ body{
     color: whitesmoke; 
     font-size: 30pt;
     font-variant: initial;
-    text-shadow: 10px 10px 10px black;
+    text-shadow: 5px 5px 5px black;
 }
 .indexbyline {
     color: #3c3c20;
@@ -37,4 +37,17 @@ body{
     color: whitesmoke; 
     font-size: 12pt;
     text-shadow: 10px 10px 10px black; 
+}
+.resumetitle {
+    color: #3c3c20;
+    font-size: 30 pt;
+    text-align: center;
+} 
+.yodapic {
+    height: 30px;
+    width: 30px;
+    margin-right: .5rem!important;
+}
+.table .thead-dark th {
+    background-color: #3c3c20;
 }
