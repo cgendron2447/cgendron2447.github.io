@@ -1,11 +1,53 @@
-h1 {
-    color: red;
-}
-.Yoda {
-    width: 200px;
-    height: 200px;
-}
 body{
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+.jumbotron {
+    background-attachment: fixed;
+    background-image: url(cave.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display-4 {
+    color: whitesmoke;
+    font-size: 50pt;
+    text-shadow: 10px 10px 10px black;
+}
+.lead {
+    color: whitesmoke; 
+    font-size: 30pt;
+    font-variant: initial;
+    text-shadow: 5px 5px 5px black;
+}
+.indexbyline {
+    color: #3c3c20;
+    font-size: 20pt;
+    font-weight: bold;
+    text-shadow: 20px 20px 20px whitesmoke;
+}
+.fa, .far, .fas {
+    height: 60px; 
+    width: 60px;
+}
+.yodaicon {
+    height: 30px;
+    width: 30px;
+    margin-right: .5rem!important;
+}
+.indexfooter {
+    color: whitesmoke; 
+    font-size: 12pt;
+    text-shadow: 10px 10px 10px black; 
+}
+.resumetitle {
+    color: #3c3c20;
+    font-size: 30 pt;
+    text-align: center;
+} 
+.yodapic {
+    height: 30px;
+    width: 30px;
+    margin-right: .5rem!important;
+}
+.table .thead-dark th {
+    background-color: #3c3c20;
 }
