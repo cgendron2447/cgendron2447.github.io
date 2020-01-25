@@ -1,6 +1,10 @@
 body {
-    background: salmon
-}
+    background-color: lightblue;}
 h1 {
-    background: whitesmoke;
+    background: darkgray;
+    color: green;
+}
+
+p, ul, ol, table, a{
+    font-family: fantasy;
 }
